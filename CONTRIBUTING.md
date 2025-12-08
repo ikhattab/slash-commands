@@ -63,7 +63,7 @@ Be specific about:
 
 Before submitting:
 
-1. Install the command in Cursor using the "Install in Cursor" button
+1. Install the command in your preferred AI coding agent
 2. Test it on real code
 3. Verify it produces useful results
 
@@ -86,7 +86,7 @@ Choose the most appropriate category:
 ## Pull Request Process
 
 1. Ensure your command follows the template
-2. Test the command in Cursor
+2. Test the command in your AI coding agent (Cursor, Antigravity, Codex CLI, or Claude Code)
 3. Fill out the PR template completely
 4. Wait for review feedback
 

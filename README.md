@@ -1,6 +1,11 @@
 # Agent Commands
 
-A community-driven collection of slash commands for AI coding assistants like [Cursor](https://cursor.com), [Windsurf](https://codeium.com/windsurf), and other AI-powered IDEs.
+A community-driven collection of slash commands for AI coding agents:
+
+- **[Cursor](https://cursor.com)** – AI-first code editor
+- **[Google Antigravity](https://deepmind.google/)** – Google DeepMind's coding agent
+- **[OpenAI Codex CLI](https://github.com/openai/codex)** – OpenAI's terminal coding assistant
+- **[Claude Code](https://claude.ai/)** – Anthropic's AI coding companion
 
 🌐 **Browse commands at [agentcmds.work](https://agentcmds.work)**
 
