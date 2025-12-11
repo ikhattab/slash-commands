@@ -1,4 +1,4 @@
-# Agent Commands
+# Agent Slash Commands
 
 A community-driven collection of slash commands for AI coding agents:
 
